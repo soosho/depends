@@ -1,0 +1,34 @@
+{
+  "currency_options": [
+    {
+      "currency": "BTC",
+      "unit": "TENZBTC",
+      "conversion_rate": 1,
+      "decimals": 8
+    },
+    {
+      "currency": "mBTC",
+      "unit": "TENZBTC",
+      "conversion_rate": 1000,
+      "decimals": 5
+    },
+    {
+      "currency": "µBTC",
+      "unit": "TENZBTC",
+      "conversion_rate": 1000000,
+      "decimals": 2
+    },
+    {
+      "currency": "Satoshi",
+      "unit": "TENZBTC",
+      "conversion_rate": 100000000,
+      "decimals": 0
+    },
+    {
+      "currency": "USDT",
+      "unit": "TENZUSDT",
+      "conversion_rate": 1,
+      "decimals": 5
+    }
+  ]
+}
